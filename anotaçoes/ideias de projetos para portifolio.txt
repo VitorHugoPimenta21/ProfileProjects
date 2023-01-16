@@ -1,0 +1,22 @@
+Site de negócios fictício: Crie um site para uma empresa fictícia, incluindo páginas como "Sobre nós", "Produtos/Serviços" e "Contato".
+
+Blog pessoal: Crie um blog pessoal e adicione recursos como comentários e compartilhamento nas redes sociais.
+
+Loja virtual: Crie uma loja virtual com uma variedade de produtos, carrinho de compras e página de pagamento.
+
+Portfólio de design: Crie um portfólio para mostrar seus trabalhos de design, incluindo imagens e descrições.
+
+Página de evento: Crie uma página para um evento futuro, incluindo informações sobre data, local e programação.
+
+Pagina de login e cadastro: Criar uma pagina de login para algum serviço.
+
+Site de notícias: Crie um site de notícias com seções para diferentes categorias de notícias e recursos de busca e compartilhamento.
+
+Página de currículo: Crie uma página de currículo para mostrar suas habilidades e experiência profissional.
+
+Landing page: Crie uma landing page para um produto ou serviço, com recursos de conversão e formulário de contato.
+
+
+projetos de empresas:
+  -
+

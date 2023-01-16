@@ -1,0 +1,19 @@
+1 estrategia 80%resultado/20%conhecimento(principio de pareto):
+	-não tem necessidade de aprender tudo, a base é essencial para 
+	resolver os programas 
+
+2 estrategia usar redes sociais:
+	Linkedin
+	Github
+	Site Portifolio
+	Focar curriculo(certificados e projetos)
+
+para portifolio:
+	lading page
+	sites
+	projetos que as empresas utilizam 
+	
+
+para procurar emprego preciso de uma base forte 
+em tecnologias de front end e para destaque 
+aprender typescript e javascript

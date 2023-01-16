@@ -1,0 +1,43 @@
+Semana 1:
+Segunda-feira: Introdução ao HTML (1 hora)
+Terça-feira: Introdução ao CSS (1 hora)
+Quarta-feira: Fundamentos de JavaScript (1 hora)
+Quinta-feira: Fundamentos de JavaScript (1 hora)
+Sexta-feira: Fundamentos de JavaScript (1 hora)
+
+Semana 2:
+Segunda-feira: Avançando com CSS (1 hora)
+Terça-feira: Avançando com CSS (1 hora)
+Quarta-feira: JavaScript avançado (1 hora)
+Quinta-feira: JavaScript avançado (1 hora)
+Sexta-feira: JavaScript avançado (1 hora)
+
+Semana 3:
+Segunda-feira: Introdução a React (1 hora)
+Terça-feira: Introdução a React (1 hora)
+Quarta-feira: Avançando com React (1 hora)
+Quinta-feira: Avançando com React (1 hora)
+Sexta-feira: Avançando com React (1 hora)
+
+Semana 4:
+Segunda-feira: Projeto final (1 hora)
+Terça-feira: Projeto final (1 hora)
+Quarta-feira: Projeto final (1 hora)
+Quinta-feira: Projeto final (1 hora)
+Sexta-feira: Projeto final (1 hora)
+
+Semana 5:
+Segunda-feira: Revisão e aprimoramento (1 hora)
+Terça-feira: Revisão e aprimoramento (1 hora)
+Quarta-feira: Revisão e aprimoramento (1 hora)
+Quinta-feira: Revisão e aprimoramento (1 hora)
+Sexta-feira: Revisão e aprimoramento (1 hora)
+
+Na última semana de estudo, é importante revisar os conceitos e técnicas aprendidas durante o roadmap. Algumas coisas que você pode revisar incluem:
+HTML: Revisar a sintaxe básica e estrutura de documentos, além de praticar a criação de diferentes tipos de elementos, como tabelas, formulários e listas.
+CSS: Revisar técnicas de layout, como Grid e Flexbox, além de praticar a criação de estilos para diferentes tipos de elementos, como botões, links e caixas.
+JavaScript: Revisar conceitos básicos, como variáveis, condicionais e loops, além de técnicas avançadas, como manipulação de eventos e DOM.
+React: Revisar como criar componentes e gerenciar o estado, além de praticar o uso de bibliotecas como React Router e React Hooks.
+Projeto final: Revisar o projeto final criado durante o curso, verificando se todas as funcionalidades estão funcionando corretamente e se há alguma melhoria a ser feita.
+Continuar aprendendo: Revisar as últimas tendências e recursos do front-end, como novas versões de React, bibliotecas e ferramentas, e continuar a praticar e aprimorar suas habilidades.
+É importante lembrar que essa é uma sugestão geral, e que você deve adaptar a revisão de acordo com seu progresso e necessidades.
